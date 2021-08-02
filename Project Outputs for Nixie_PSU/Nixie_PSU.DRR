@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Nixie_PSU.PcbDoc   2021-07-29  10:11:09 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Nixie_PSU-RoundHoles.TXT
+ASCII SlotHoles File : Nixie_PSU-SlotHoles.TXT
+ASCII RectHoles File : Nixie_PSU-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             26        PTH        5.61inch (142.45mm)
+T2      24mil (0.6mm)                                             Round             3         PTH        0.34inch (8.54mm)
+T3      28mil (0.7mm)                                             Rectangle         1         PTH        0.05inch (1.20mm)
+T4      44mil (1.13mm)                                            Slot              4         PTH        1.68inch (42.57mm)
+T5      59mil (1.5mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T6      63mil (1.6mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T7      67mil (1.7mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              38
+
+Total Processing Time (hh:mm:ss) : 00:00:00

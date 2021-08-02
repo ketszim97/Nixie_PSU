@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\Documents\PCB Design\Nixie_PSU\Nixie_PSU.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nixie_psu-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nixie_psu-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=nixie_psu-rectholes.txt|DrillLayers=gtl,gbl
